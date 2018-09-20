@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WKInfoView_Example' do
+  pod 'WKInfoView', :path => '../'
+
+  target 'WKInfoView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
