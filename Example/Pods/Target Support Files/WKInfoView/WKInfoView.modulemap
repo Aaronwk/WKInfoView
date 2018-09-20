@@ -1,0 +1,6 @@
+framework module WKInfoView {
+  umbrella header "WKInfoView-umbrella.h"
+
+  export *
+  module * { export * }
+}

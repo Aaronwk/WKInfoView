@@ -1,0 +1,16 @@
+PODS:
+  - WKInfoView (0.1.0)
+
+DEPENDENCIES:
+  - WKInfoView (from `../`)
+
+EXTERNAL SOURCES:
+  WKInfoView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WKInfoView: 0cf28c45a20b989b8a7e5bab6e54133b1e381207
+
+PODFILE CHECKSUM: 0d8ca3d8411849c6ad44ce17be22c5e5142b3935
+
+COCOAPODS: 1.4.0

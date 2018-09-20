@@ -1,0 +1,6 @@
+framework module Pods_WKInfoView_Tests {
+  umbrella header "Pods-WKInfoView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
