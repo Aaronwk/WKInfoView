@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WKInfoView
 
 [![CI Status](https://img.shields.io/travis/objective/WKInfoView.svg?style=flat)](https://travis-ci.org/objective/WKInfoView)
@@ -28,6 +27,3 @@ objective, wangkai@ctdcn.com
 ## License
 
 WKInfoView is available under the MIT license. See the LICENSE file for more info.
-=======
-# WKInfoView
->>>>>>> 082277876ea7a213581dfaa31b79fd0e20183d27
